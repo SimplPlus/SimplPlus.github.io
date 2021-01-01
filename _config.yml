@@ -23,16 +23,16 @@ heroimage: https://images.pexels.com/photos/220444/pexels-photo-220444.jpeg?auto
 # Social Media and Contact
 # If you don't want to use any icon, you can leave them blank.
 email: hi@appcube.com
-facebook_username: /
+# facebook_username: /
 twitter_username: d8boom
-instagram_username: /
-linkedin_username: /
+# instagram_username: /
+# linkedin_username: /
 github_username:  doobom
-youtube_channel_id: /
-reddit_username: /
-behance_username: /
-dribbble_username: /
-spotify_username: /
+# youtube_channel_id: /
+# reddit_username: /
+# behance_username: /
+# dribbble_username: /
+# spotify_username: /
 
 # Google Analytics
 #google-analytics: UA-163806439-1
@@ -60,7 +60,7 @@ plugins:
   - jekyll-feed
 
 # Permalink
-permalink: ":category/:title"
+permalink: "/:category/:title"
 
 # Compress
 compress_html:
